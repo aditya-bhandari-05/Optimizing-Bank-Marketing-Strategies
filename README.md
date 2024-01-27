@@ -48,7 +48,7 @@ After data balancing, logistic regression emerged as a key player. Ideal for bin
 
 **Regex:** String manipulation
 
-**Numpy: **Mathematical functions
+**Numpy:** Mathematical functions
 
 **Matplotlib and Seaborn:** Visualizations
 
@@ -68,8 +68,11 @@ After data balancing, logistic regression emerged as a key player. Ideal for bin
 ## Why Explore This Repository:
 
 **1.** Discover methodologies employed and findings from the extensive analysis.
-**2. **Access predictive models crafted for actionable insights.
-**3. **Optimize marketing strategies to elevate term deposit subscription rates.
+
+**2.** Access predictive models crafted for actionable insights.
+
+**3.** Optimize marketing strategies to elevate term deposit subscription rates.
+
 **4.** Unlock the potential of your marketing campaigns. Explore our findings to drive revenue and strategic success in the banking sector.
 
 ### Clone this repository to explore, contribute, and leverage our findings for your own analyses!
